@@ -1,0 +1,16 @@
+C:\Users\luism\OneDrive\Escritorio\Pasantia\Proyectos Personales C#\CRUD_Entity\bin\Debug\CRUD_Entity.exe.config
+C:\Users\luism\OneDrive\Escritorio\Pasantia\Proyectos Personales C#\CRUD_Entity\bin\Debug\CRUD_Entity.exe
+C:\Users\luism\OneDrive\Escritorio\Pasantia\Proyectos Personales C#\CRUD_Entity\bin\Debug\CRUD_Entity.pdb
+C:\Users\luism\OneDrive\Escritorio\Pasantia\Proyectos Personales C#\CRUD_Entity\obj\Debug\CRUD_Entity.csproj.AssemblyReference.cache
+C:\Users\luism\OneDrive\Escritorio\Pasantia\Proyectos Personales C#\CRUD_Entity\obj\Debug\CRUD_Entity.Form1.resources
+C:\Users\luism\OneDrive\Escritorio\Pasantia\Proyectos Personales C#\CRUD_Entity\obj\Debug\CRUD_Entity.Properties.Resources.resources
+C:\Users\luism\OneDrive\Escritorio\Pasantia\Proyectos Personales C#\CRUD_Entity\obj\Debug\CRUD_Entity.csproj.GenerateResource.cache
+C:\Users\luism\OneDrive\Escritorio\Pasantia\Proyectos Personales C#\CRUD_Entity\obj\Debug\CRUD_Entity.csproj.CoreCompileInputs.cache
+C:\Users\luism\OneDrive\Escritorio\Pasantia\Proyectos Personales C#\CRUD_Entity\obj\Debug\CRUD_Entity.exe
+C:\Users\luism\OneDrive\Escritorio\Pasantia\Proyectos Personales C#\CRUD_Entity\obj\Debug\CRUD_Entity.pdb
+C:\Users\luism\OneDrive\Escritorio\Pasantia\Proyectos Personales C#\CRUD_Entity\bin\Debug\EntityFramework.dll
+C:\Users\luism\OneDrive\Escritorio\Pasantia\Proyectos Personales C#\CRUD_Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\luism\OneDrive\Escritorio\Pasantia\Proyectos Personales C#\CRUD_Entity\bin\Debug\EntityFramework.xml
+C:\Users\luism\OneDrive\Escritorio\Pasantia\Proyectos Personales C#\CRUD_Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\luism\OneDrive\Escritorio\Pasantia\Proyectos Personales C#\CRUD_Entity\obj\Debug\CRUD_Ent.5AC3F364.Up2Date
+C:\Users\luism\OneDrive\Escritorio\Pasantia\Proyectos Personales C#\CRUD_Entity\obj\Debug\CRUD_Entity.frmPersona.resources

@@ -1,0 +1,39 @@
+use master
+go
+IF NOT EXISTS(SELECT name FROM master.dbo.sysdatabases WHERE NAME = 'DBPRUEBAS')
+CREATE DATABASE DBPRUEBAS
+
+GO 
+
+USE DBPRUEBAS
+
+GO
+
+if not exists (SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'PERSONA')
+create table PERSONA(
+IdPersona int primary key identity(1,1),
+Nombres varchar(60),
+Telefono varchar(60)
+)
+
+go
+
+select * from dbo.PERSONA
+
+﻿USE [DBPRUEBAS]
+GO
+SET IDENTITY_INSERT [dbo].[PERSONA] ON 
+
+INSERT [dbo].[PERSONA] ([IdPersona], [Nombres], [Telefono]) VALUES (1, N'Luis', N'8298284473')
+INSERT [dbo].[PERSONA] ([IdPersona], [Nombres], [Telefono]) VALUES (2, N'Manuel', N'8298284474')
+INSERT [dbo].[PERSONA] ([IdPersona], [Nombres], [Telefono]) VALUES (3, N'Jose', N'8298284475')
+INSERT [dbo].[PERSONA] ([IdPersona], [Nombres], [Telefono]) VALUES (4, N'Sofia', N'8298284476')
+INSERT [dbo].[PERSONA] ([IdPersona], [Nombres], [Telefono]) VALUES (5, N'Hector', N'8298284477')
+
+SET IDENTITY_INSERT [dbo].[PERSONA] OFF
+
+go
+
+select * from [dbo].[PERSONA]
+
+SELECT * FROM PERSONA

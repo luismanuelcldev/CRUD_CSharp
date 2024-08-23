@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luism\\OneDrive\\Escritorio\\Pasantia\\Proyectos Personales C#\\CRUD_Entity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4235D890-1AB4-47EB-B507-08C53DC77A01}|CRUD_Entity.csproj|c:\\users\\luism\\onedrive\\escritorio\\pasantia\\proyectos personales c#\\crud_entity\\frmpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4235D890-1AB4-47EB-B507-08C53DC77A01}|CRUD_Entity.csproj|solutionrelative:frmpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4235D890-1AB4-47EB-B507-08C53DC77A01}|CRUD_Entity.csproj|C:\\Users\\luism\\OneDrive\\Escritorio\\Pasantia\\Proyectos Personales C#\\CRUD_Entity\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4235D890-1AB4-47EB-B507-08C53DC77A01}|CRUD_Entity.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4235D890-1AB4-47EB-B507-08C53DC77A01}|CRUD_Entity.csproj|c:\\users\\luism\\onedrive\\escritorio\\pasantia\\proyectos personales c#\\crud_entity\\frmpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4235D890-1AB4-47EB-B507-08C53DC77A01}|CRUD_Entity.csproj|solutionrelative:frmpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4235D890-1AB4-47EB-B507-08C53DC77A01}|CRUD_Entity.csproj|c:\\users\\luism\\onedrive\\escritorio\\pasantia\\proyectos personales c#\\crud_entity\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4235D890-1AB4-47EB-B507-08C53DC77A01}|CRUD_Entity.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4235D890-1AB4-47EB-B507-08C53DC77A01}|CRUD_Entity.csproj|C:\\Users\\luism\\OneDrive\\Escritorio\\Pasantia\\Proyectos Personales C#\\CRUD_Entity\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4235D890-1AB4-47EB-B507-08C53DC77A01}|CRUD_Entity.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4235D890-1AB4-47EB-B507-08C53DC77A01}|CRUD_Entity.csproj|C:\\Users\\luism\\OneDrive\\Escritorio\\Pasantia\\Proyectos Personales C#\\CRUD_Entity\\modelo\\modelobasedatos.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{4235D890-1AB4-47EB-B507-08C53DC77A01}|CRUD_Entity.csproj|solutionrelative:modelo\\modelobasedatos.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPersona.cs",
+              "DocumentMoniker": "C:\\Users\\luism\\OneDrive\\Escritorio\\Pasantia\\Proyectos Personales C#\\CRUD_Entity\\frmPersona.cs",
+              "RelativeDocumentMoniker": "frmPersona.cs",
+              "ToolTip": "C:\\Users\\luism\\OneDrive\\Escritorio\\Pasantia\\Proyectos Personales C#\\CRUD_Entity\\frmPersona.cs",
+              "RelativeToolTip": "frmPersona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T20:42:53.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\luism\\OneDrive\\Escritorio\\Pasantia\\Proyectos Personales C#\\CRUD_Entity\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\luism\\OneDrive\\Escritorio\\Pasantia\\Proyectos Personales C#\\CRUD_Entity\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAawDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:50:06.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\luism\\OneDrive\\Escritorio\\Pasantia\\Proyectos Personales C#\\CRUD_Entity\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\luism\\OneDrive\\Escritorio\\Pasantia\\Proyectos Personales C#\\CRUD_Entity\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAlwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T20:38:00.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPersona.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luism\\OneDrive\\Escritorio\\Pasantia\\Proyectos Personales C#\\CRUD_Entity\\frmPersona.cs",
+              "RelativeDocumentMoniker": "frmPersona.cs",
+              "ToolTip": "C:\\Users\\luism\\OneDrive\\Escritorio\\Pasantia\\Proyectos Personales C#\\CRUD_Entity\\frmPersona.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmPersona.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:10:29.249Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luism\\OneDrive\\Escritorio\\Pasantia\\Proyectos Personales C#\\CRUD_Entity\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\luism\\OneDrive\\Escritorio\\Pasantia\\Proyectos Personales C#\\CRUD_Entity\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:41:11.636Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModeloBaseDatos.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\luism\\OneDrive\\Escritorio\\Pasantia\\Proyectos Personales C#\\CRUD_Entity\\Modelo\\ModeloBaseDatos.edmx",
+              "RelativeDocumentMoniker": "Modelo\\ModeloBaseDatos.edmx",
+              "ToolTip": "C:\\Users\\luism\\OneDrive\\Escritorio\\Pasantia\\Proyectos Personales C#\\CRUD_Entity\\Modelo\\ModeloBaseDatos.edmx [Diagram1]",
+              "RelativeToolTip": "Modelo\\ModeloBaseDatos.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-08-22T00:24:10.588Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
